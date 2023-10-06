@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "651e322afe83e17ed305d621"
+  },
+  "name": "Oficina en casa"
+},
+{
+  "_id": {
+    "$oid": "651e322afe83e17ed305d622"
+  },
+  "name": "Espacios al aire libre"
+},
+{
+  "_id": {
+    "$oid": "651e322afe83e17ed305d623"
+  },
+  "name": "Baño"
+},
+{
+  "_id": {
+    "$oid": "651e322afe83e17ed305d624"
+  },
+  "name": "Sala de estar"
+},
+{
+  "_id": {
+    "$oid": "651e322afe83e17ed305d625"
+  },
+  "name": "Comedor"
+},
+{
+  "_id": {
+    "$oid": "651e322afe83e17ed305d626"
+  },
+  "name": "Cocina"
+},
+{
+  "_id": {
+    "$oid": "651e322afe83e17ed305d627"
+  },
+  "name": "Dormitorio"
+}]
